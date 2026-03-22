@@ -1,1 +1,2 @@
-I like building full stack web applications (React/Next.js | Node/Express.js | Postgre.SQL/MongoDB) and solving competitive programming problems. Also, I'm passionate in cloud development in AWS.
+I like building and shipping full stack web applications (React/Next.js | Node/Express.js | PostgreSQL/MongoDB) and solving competitive programming problems.
+Also passionate about cloud development on AWS — working with EC2, S3, SES and RDS.
